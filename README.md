@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pushkar-biswas. I am very new to the field of coding and i am hoping to learn more as time progresses.
+- 👀 I’m interested in discovering more about data analysis and machine learning
+- 🌱 I’m currently learning Data Analysis and Machine Learning
+- 💞️ I’m looking to collaborate on data analysis and machine learning. I am very new at this. I hope i can provide some assistance to you.
+- 📫 You can contact through my email : pushkarbiswas24@gmail.com or my linkedin : https://www.linkedin.com/in/pushkar-biswas-6140b6174/
